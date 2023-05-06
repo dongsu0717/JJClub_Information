@@ -5,4 +5,4 @@
 # DB
 # 번외
 [API](https://thorn-heather-9d6.notion.site/API-07eaec24871c4a188be761a6e12e8a79)   
-다운로드 [jj-club.zip](https://github.com/dongsu0717/JJClub/files/11411527/jj-club.zip)
+[jj-club.zip](https://github.com/dongsu0717/JJClub/files/11411527/jj-club.zip)다운로드    
