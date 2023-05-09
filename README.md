@@ -6,7 +6,8 @@
 [retrofit](https://taewooblog.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-retrofit-2-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%98%88%EC%A0%9C-%EB%A0%88%ED%8A%B8%EB%A1%9C%ED%95%8F-2-Java)    
 [androidx migrate](https://monee1001.tistory.com/28)   
 [[android] 빌드시 Nullable에 빨간줄 그어질 때](https://likejirak.tistory.com/255)    
-[Constant expression required](https://rosia.tistory.com/71)    
+[Constant expression required](https://rosia.tistory.com/71)        
+[missing constraints in constraintlayout](https://milkoon1.tistory.com/83)
 
 # Spring
 # DB
