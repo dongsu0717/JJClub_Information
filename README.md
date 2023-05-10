@@ -7,7 +7,7 @@
 [androidx migrate](https://monee1001.tistory.com/28)   
 [android 빌드시 Nullable에 빨간줄 그어질 때](https://likejirak.tistory.com/255)    
 [Constant expression required](https://rosia.tistory.com/71)        
-[missing constraints in constraintlayout](https://milkoon1.tistory.com/83)
+[missing constraints in constraintlayout](https://milkoon1.tistory.com/83)    
 [프레그먼트 -> 액티비티](https://m.blog.naver.com/fbfbf1/222546181867)   
 
 # Spring
