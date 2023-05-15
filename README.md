@@ -10,6 +10,7 @@
 [missing constraints in constraintlayout](https://milkoon1.tistory.com/83)    
 [프레그먼트 -> 액티비티](https://m.blog.naver.com/fbfbf1/222546181867)   
 [cannot resolve symbol ~](https://kim-hoya.tistory.com/45)    
+[retrofit으로 회원가입](https://www.youtube.com/watch?v=QCkNLzc4Xjs)
 
 # Spring
 # DB
