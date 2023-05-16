@@ -10,6 +10,9 @@
 [missing constraints in constraintlayout](https://milkoon1.tistory.com/83)    
 [프레그먼트 -> 액티비티](https://m.blog.naver.com/fbfbf1/222546181867)   
 [cannot resolve symbol ~](https://kim-hoya.tistory.com/45)    
+Error while waiting for device: [폴더경로] is already running -- avd lock파일 삭제    
+
+
 # Spring
 # DB
 # 번외
