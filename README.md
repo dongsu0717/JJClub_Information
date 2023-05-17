@@ -12,6 +12,7 @@
 [cannot resolve symbol ~](https://kim-hoya.tistory.com/45)    
 [cannot resolve symbol ~2](https://velog.io/@yoonjy1106/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-Cannot-Resolve-Symbol-%EC%97%90%EB%9F%AC-%EA%B3%A0%EC%B9%98%EB%8A%94-%EB%B0%A9%EB%B2%95)    
 Error while waiting for device: [폴더경로] is already running -- avd lock파일 삭제    
+[로그아웃](https://league-cat.tistory.com/150)    
 
 
 # Spring
