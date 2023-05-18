@@ -3,6 +3,7 @@
 [유튜브 안드로이드강의 소스코드](https://duckssi.tistory.com/12)    
 [필터(retrofit X)](https://www.youtube.com/watch?v=M73Vec1oieM&t=346s)    
 [retrofit](https://taewooblog.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-retrofit-2-%EC%82%AC%EC%9A%A9%EB%B2%95-%EC%98%88%EC%A0%9C-%EB%A0%88%ED%8A%B8%EB%A1%9C%ED%95%8F-2-Java)    
+[retrofit????](https://onlyfor-me-blog.tistory.com/141)
 [androidx migrate](https://monee1001.tistory.com/28)   
 [android 빌드시 Nullable에 빨간줄 그어질 때](https://likejirak.tistory.com/255)    
 [Constant expression required](https://rosia.tistory.com/71)        
@@ -12,6 +13,7 @@
 [cannot resolve symbol ~2](https://velog.io/@yoonjy1106/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-Cannot-Resolve-Symbol-%EC%97%90%EB%9F%AC-%EA%B3%A0%EC%B9%98%EB%8A%94-%EB%B0%A9%EB%B2%95)    
 Error while waiting for device: [폴더경로] is already running -- avd lock파일 삭제    
 [로그아웃](https://league-cat.tistory.com/150)    
+
 
 
 # Spring
