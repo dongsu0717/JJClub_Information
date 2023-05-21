@@ -22,4 +22,5 @@ Error while waiting for device: [폴더경로] is already running -- avd lock파
 [API](https://thorn-heather-9d6.notion.site/API-07eaec24871c4a188be761a6e12e8a79)   
 [EERD](https://github.com/dongsu0717/JJClub/files/11411527/jj-club.zip)다운로드    
 [apk소스코드 얻기](https://sinwho.tistory.com/entry/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1APK-%EB%94%94%EC%BB%B4%ED%8C%8C%EC%9D%BCDecompile%EB%A1%9C-%EC%86%8C%EC%8A%A4-%EB%B3%B4%EA%B8%B0)    
-[안드로이드 스튜디오에서 github에 소스코드 공유](https://www.youtube.com/watch?v=4JpcxUZLazo&t=134s)
+[안드로이드 스튜디오에서 github에 소스코드 공유](https://www.youtube.com/watch?v=4JpcxUZLazo&t=134s)    
+[포크, 풀리퀘스트](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)   
