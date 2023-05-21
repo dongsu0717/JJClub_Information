@@ -25,3 +25,4 @@ Error while waiting for device: [폴더경로] is already running -- avd lock파
 [안드로이드 스튜디오에서 github에 소스코드 공유](https://www.youtube.com/watch?v=4JpcxUZLazo&t=134s)    
 [포크, 풀리퀘스트](https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/)   
 [포크, 풀리퀘스트 유튜브](https://www.youtube.com/watch?v=UZWcOkfhIwM&t=182s)   
+[코드리뷰](https://github.com/next-step/nextstep-docs/tree/master/codereview)
