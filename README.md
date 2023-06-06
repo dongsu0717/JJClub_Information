@@ -29,3 +29,4 @@ Error while waiting for device: [폴더경로] is already running -- avd lock파
 [포크, 풀리퀘스트 유튜브](https://www.youtube.com/watch?v=UZWcOkfhIwM&t=182s)   
 [코드리뷰](https://github.com/next-step/nextstep-docs/tree/master/codereview)   
 [깃허브 포크,풀퀘](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%EA%B9%83%ED%97%99-PRPull-Request-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-folk-issue)    
+[폴더 깃허브에 올리기](https://tychejin.tistory.com/357)   
