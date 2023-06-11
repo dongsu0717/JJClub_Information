@@ -30,3 +30,5 @@ Error while waiting for device: [폴더경로] is already running -- avd lock파
 [코드리뷰](https://github.com/next-step/nextstep-docs/tree/master/codereview)   
 [깃허브 포크,풀퀘](https://inpa.tistory.com/entry/GIT-%E2%9A%A1%EF%B8%8F-%EA%B9%83%ED%97%99-PRPull-Request-%EB%B3%B4%EB%82%B4%EB%8A%94-%EB%B0%A9%EB%B2%95-folk-issue)    
 [폴더 깃허브에 올리기](https://tychejin.tistory.com/357)   
+git pull Dongsu3(원격 주소 git remote add ___ 했던거) master(내꺼 브랜치)   
+
